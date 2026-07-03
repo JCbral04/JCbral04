@@ -1,8 +1,6 @@
-&lt;div align="center"&gt;
-  &lt;h1&gt;Hi, I'm Juan 👋&lt;/h1&gt;
-  &lt;h3&gt;Software Engineering Student | C1 English | Full-Stack & Python&lt;/h3&gt;
-&lt;/div&gt;
+# Hi, I'm Juan 👋
 
+### Software Engineering Student | C1 English | Full-Stack & Python
 ---
 
 ### 🎓 About Me

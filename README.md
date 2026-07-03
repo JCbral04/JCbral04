@@ -32,6 +32,9 @@
 | Python Data Analysis Toolkit | 🔄 Rebuilding | Python, Pandas, SQL |
 | AI Code Reviewer | 📋 Planned | Python, OpenAI API |
 
+&gt; 🚧 **Note:** I'm currently organizing my academic projects into public repositories. 
+&gt; Follow me to see my work as it goes live!
+
 ---
 
 ### 📫 Connect With Me
@@ -41,5 +44,4 @@
 
 ---
 
-&gt; 🚧 **Note:** I'm currently organizing my academic projects into public repositories. 
-&gt; Follow me to see my work as it goes live!
+&gt; 💡 *"The best way to predict the future is to code it."*

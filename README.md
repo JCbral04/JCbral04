@@ -1,6 +1,11 @@
+&lt;p align="left"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=JCbral04&label=Profile%20views&color=0e75b6&style=flat" alt="JCbral04" /&gt;
+&lt;/p&gt;
+
 # Hi, I'm Juan 👋
 
 ### Software Engineering Student | C1 English | Full-Stack & Python
+
 ---
 
 ### 🎓 About Me
@@ -17,8 +22,8 @@
 **Languages:** Java · Python · JavaScript · SQL  
 **Frontend:** React · HTML5 · CSS3 · Responsive Design  
 **Backend:** Java · REST APIs · SQL  
-**Data:** Pandas · Data Cleaning · Anomaly Detection  
-**Tools:** Git · GitHub · Scrum · Linux (basic) · Docker (basic)
+**Data:** Pandas · NumPy · Data Cleaning · Anomaly Detection · SQL Analysis  
+**Tools:** Git · GitHub · pytest · Scrum · Linux (basic) · Docker (basic)
 
 ---
 
@@ -27,11 +32,19 @@
 | Project | Status | Tech Stack |
 |---------|--------|-----------|
 | Full-Stack Resource Management | 🔄 Rebuilding | React, Java, SQL |
-| Python Data Analysis Toolkit | 🔄 Rebuilding | Python, Pandas, SQL |
+| Python Data Analysis Toolkit | ✅ Live | Python, Pandas, NumPy, pytest |
 | AI Code Reviewer | 📋 Planned | Python, OpenAI API |
 
 &gt; 🚧 **Note:** I'm currently organizing my academic projects into public repositories. 
 &gt; Follow me to see my work as it goes live!
+
+---
+
+### 📊 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=JCbral04&show_icons=true&theme=dark" alt="JCbral04 stats" /&gt;
+&lt;/p&gt;
 
 ---
 
@@ -42,4 +55,4 @@
 
 ---
 
-&gt; 💡 *"The best way to predict the future is to code it."*
+&gt; 💡 *"Clean data. Clean code. Clear results."*

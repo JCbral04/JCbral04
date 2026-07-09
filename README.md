@@ -1,7 +1,3 @@
-&lt;p align="left"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=JCbral04&label=Profile%20views&color=0e75b6&style=flat" alt="JCbral04" /&gt;
-&lt;/p&gt;
-
 # Hi, I'm Juan 👋
 
 ### Software Engineering Student | C1 English | Full-Stack & Python
@@ -31,20 +27,12 @@
 
 | Project | Status | Tech Stack |
 |---------|--------|-----------|
-| Full-Stack Resource Management | 🔄 Rebuilding | React, Java, SQL |
-| Python Data Analysis Toolkit | ✅ Live | Python, Pandas, NumPy, pytest |
+| [Full-Stack Resource Management](https://github.com/JCbral04) | 🔄 Rebuilding | React, Java, SQL |
+| [Python Data Analysis Toolkit](https://github.com/JCbral04/python-data-toolkit) | ✅ Live | Python, Pandas, NumPy, pytest |
 | AI Code Reviewer | 📋 Planned | Python, OpenAI API |
 
 &gt; 🚧 **Note:** I'm currently organizing my academic projects into public repositories. 
 &gt; Follow me to see my work as it goes live!
-
----
-
-### 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=JCbral04&show_icons=true&theme=dark" alt="JCbral04 stats" /&gt;
-&lt;/p&gt;
 
 ---
 

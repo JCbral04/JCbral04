@@ -4,12 +4,12 @@
 
 ---
 
-### 🎓 About Me
-- 🏫 **7th semester** Software Engineering at Universidad Manuela Beltrán
+###  About Me
+-  **7th semester** Software Engineering at Universidad Manuela Beltrán
 - 🇨🇴 Based in **Tocancipá, Colombia**
-- 🌎 **C1 English** — comfortable in international, remote teams
-- 🤖 Interested in **AI training, code evaluation, and full-stack development**
-- 📚 Currently learning: **Artificial Intelligence, Docker, Cloud (AWS)**
+-  **C1 English** — comfortable in international, remote teams
+-  Interested in **AI training, code evaluation, and full-stack development**
+-  Currently learning: **Artificial Intelligence, Docker, Cloud (AWS)**
 
 ---
 

@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 What I'm Building
+###  What I'm Building
 
 | Project | Status | Tech Stack |
 |---------|--------|-----------|
@@ -39,7 +39,7 @@
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-cabral-bautista-7735032b8)
-- 📧 juanesch30@outlook.com
+- 📧 juanesch30@gmail.com
 
 ---
 

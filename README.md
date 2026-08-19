@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Languages:** Java · Python · JavaScript · SQL  
 **Frontend:** React · HTML5 · CSS3 · Responsive Design  
@@ -27,8 +27,8 @@
 
 | Project | Status | Tech Stack |
 |---------|--------|-----------|
-| [Full-Stack Resource Management](https://github.com/JCbral04) | 🔄 Rebuilding | React, Java, SQL |
-| [Python Data Analysis Toolkit](https://github.com/JCbral04/python-data-toolkit) | ✅ Live | Python, Pandas, NumPy, pytest |
+| [Full-Stack Resource Management](https://github.com/JCbral04) |  Rebuilding | React, Java, SQL |
+| [Python Data Analysis Toolkit](https://github.com/JCbral04/python-data-toolkit) |  Live | Python, Pandas, NumPy, pytest |
 | AI Code Reviewer |  Planned | Python, OpenAI API |
 
 &gt;  **Note:** I'm currently organizing my academic projects into public repositories. 

@@ -1,4 +1,4 @@
-# Hi, I'm Juan 👋
+# Hi, I'm Juan 
 
 ### Software Engineering Student | C1 English | Full-Stack & Python
 
@@ -29,17 +29,17 @@
 |---------|--------|-----------|
 | [Full-Stack Resource Management](https://github.com/JCbral04) | 🔄 Rebuilding | React, Java, SQL |
 | [Python Data Analysis Toolkit](https://github.com/JCbral04/python-data-toolkit) | ✅ Live | Python, Pandas, NumPy, pytest |
-| AI Code Reviewer | 📋 Planned | Python, OpenAI API |
+| AI Code Reviewer |  Planned | Python, OpenAI API |
 
-&gt; 🚧 **Note:** I'm currently organizing my academic projects into public repositories. 
+&gt;  **Note:** I'm currently organizing my academic projects into public repositories. 
 &gt; Follow me to see my work as it goes live!
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-cabral-bautista-7735032b8)
-- 📧 juanesch30@gmail.com
+-  [LinkedIn](https://linkedin.com/in/juan-esteban-cabral-bautista-7735032b8)
+-  juanesch30@gmail.com
 
 ---
 

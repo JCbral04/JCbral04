@@ -74,7 +74,7 @@
 | Project | Status | Tech Stack |
 |---------|--------|------------|
 | [Full-Stack Resource Management](https://github.com/JCbral04) |  Rebuilding | React, Java, SQL |
-| [Python Data Analysis Toolkit](https://github.com/JCbral04) |  Live | Python, Pandas, NumPy, pytest |
+| [Python Data Analysis Toolkit](https://github.com/JCbral04/python-data-toolkit) |  Live | Python, Pandas, NumPy, pytest |
 | AI Code Reviewer |  Planned | Python, OpenAI API |
 
 > 💡 **Note:** I'm currently organizing my academic projects into public repositories.  

@@ -118,7 +118,7 @@ A Python library focused on data preparation, anomaly detection, automated repor
 
 ---
 
-## 📚 What I'm Working On
+##  What I'm Working On
 
 I'm continuously turning my university coursework and technical experiments into **documented, reusable projects**.
 

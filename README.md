@@ -151,29 +151,30 @@ I particularly enjoy projects where different parts of the stack have to work to
 
 ---
 
-##  GitHub Stats
-
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=JCbral04&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=JCbral04&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCbral04&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JCbral04&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top languages"
   />
-</div>
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=JCbral04&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=JCbral04&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
 
 </div>
 

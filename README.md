@@ -155,9 +155,17 @@ I particularly enjoy projects where different parts of the stack have to work to
 
 <div align="center">
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JCbral04&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JCbral04&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub statistics"
+  />
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JCbral04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCbral04&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top languages"
+  />
 
 </div>
 

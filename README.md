@@ -153,8 +153,9 @@ I particularly enjoy projects where different parts of the stack have to work to
 
 ##  GitHub Stats
 
-<div align="center">
+##  GitHub Stats
 
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=JCbral04&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
@@ -166,6 +167,7 @@ I particularly enjoy projects where different parts of the stack have to work to
     height="165"
     alt="Top languages"
   />
+</div>
 
 </div>
 

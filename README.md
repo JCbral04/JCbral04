@@ -101,21 +101,22 @@ A distributed ERP system designed for the management of fashion stores, develope
 
 **[View Repository →](https://github.com/JCbral04/python-data-toolkit)**
 
-A Python library focused on data preparation, anomaly detection, automated reporting and static SQL analysis.
+A production-ready Python library published on PyPI for data cleaning, anomaly detection, automated reporting, and static SQL analysis. Installable with `pip install python-data-toolkit` and usable from code or from the terminal via a `click`-based CLI.
 
 **Highlights:**
 
-*  Data cleaning and missing-value handling
-*  Anomaly detection using **IQR and Z-score**
-*  Markdown and text report generation
-*  Static SQL query analysis and optimization suggestions
-*  **32 unit tests**
-*  Type hints and NumPy-style documentation
-*  Domain-specific exception handling
-*  Modular `src/` architecture
+- Published on [PyPI](https://pypi.org/project/python-data-toolkit/) with an official v1.0.0 release (SemVer)
+- CLI: `pdt clean`, `pdt detect`, `pdt report`, `pdt analyze`
+- Data cleaning with multiple imputation strategies and CSV/Excel/Parquet export
+- Anomaly detection using IQR and Z-score
+- Markdown and text report generation
+- Static SQL query analysis (regex-based, limitations documented)
+- 38 unit tests with GitHub Actions CI (Python 3.10–3.13)
+- Code coverage tracked by Codecov
+- Pre-commit hooks (ruff + mypy)
+- Type hints, NumPy-style docs, and domain-specific exceptions
 
-`Python` `Pandas` `NumPy` `pytest` `SQL`
-
+`Python` `Pandas` `NumPy` `pytest` `click` `SQL` `GitHub Actions`
 ---
 
 ##  What I'm Working On
